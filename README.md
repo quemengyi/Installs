@@ -1,6 +1,6 @@
 # Installs
 这里是工具下载地址
-###Linux安装指令：
+###Linux安装指令###：
 1. apt install nodejs
 2. npm install -g cnpm --registry=https://registry.npm.taobao.org
 3. npm install -g yarn
